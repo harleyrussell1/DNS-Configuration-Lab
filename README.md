@@ -69,7 +69,7 @@ On **Client-1**:
 
 ---
 
-## Footnote: Skills and Experience Gained
+## Skills and Experience Gained
 
 This lab provides foundational hands-on experience in Active Directory-integrated DNS management, a critical skill for system and network administrators. Key competencies developed include:
 
