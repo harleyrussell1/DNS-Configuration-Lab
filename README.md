@@ -66,3 +66,17 @@ On **Client-1**:
 
 - Pinging `search` resolved to Google's public address, showing successful aliasing
 - Ran `nslookup search` → Confirmed that the CNAME record correctly redirected to `www.google.com`
+
+---
+
+## Footnote: Skills and Experience Gained
+
+This lab provides foundational hands-on experience in Active Directory-integrated DNS management, a critical skill for system and network administrators. Key competencies developed include:
+
+- Creating and troubleshooting **A Records** for internal name resolution  
+- Observing and managing **DNS client-side caching** behavior  
+- Configuring **CNAME (alias) records** for flexible DNS mappings  
+- Using tools like `ping`, `nslookup`, and `ipconfig` to validate DNS functionality and diagnose issues  
+- Understanding the propagation and caching process of DNS records in enterprise environments  
+
+These skills are essential for managing scalable, secure networks and play a key role in IT operations, cybersecurity, and cloud administration.
