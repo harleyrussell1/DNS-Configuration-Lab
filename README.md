@@ -4,6 +4,14 @@
 
 This lab demonstrates the behavior of DNS records in a domain environment, including A records, DNS caching, and the use of CNAME records. Testing was done using Azure-hosted virtual machines configured as a domain controller (DC-1) and a domain-joined client (Client-1).
 
+## Technologies Used
+
+- Microsoft Azure (VM deployment)
+- Windows Server (Domain Controller)
+- Active Directory DNS
+- DNS Records (A-Record, CNAME)
+- DNS Client Tools (nslookup, ipconfig)
+- DNS Cache Management
 ---
 
 ## 1. A Record Creation and Testing
