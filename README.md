@@ -80,3 +80,7 @@ This lab provides foundational hands-on experience in Active Directory-integrate
 - Understanding the propagation and caching process of DNS records in enterprise environments  
 
 These skills are essential for managing scalable, secure networks and play a key role in IT operations, cybersecurity, and cloud administration.
+
+## Screenshots
+
+All screenshots for this lab can be found in the [screenshots](./screenshots) folder.
